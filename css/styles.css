@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Raleway');
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dosis', sans-serif;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-image: url('../img/baratiebg.jpeg');
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+}
+
+.green_bg {
+  background-color:#1da2d8;
+  color: #fff;
+}
+
+.jumbotron small {
+  color:#fff;
+}
+#after_order {
+  display:none;
+}
+
+#main_form {
+  background-color:	#064273;
+  color:#fff;
+  border-radius:15px;
+  opacity: 0.85;
+  text-align:center;
+  padding:1em;
+}
